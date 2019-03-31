@@ -1,8 +1,6 @@
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
-
-import './css/normalize.css'
-import './css/skeleton.css'
+import './css/bulma.css'
 
 import Home from './components/Home';
 
